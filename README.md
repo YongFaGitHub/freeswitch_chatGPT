@@ -7,7 +7,7 @@ freeswitch-chatGPT
 freeswitch-chatGPT is an open-source project aimed at integrating FreeSWITCH with OpenAI's Stream API, as well as implementing MRCP-based ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) using FreeSWITCH.
 
 
-open ai
+open ai  
 
 <p align="center">
 <img src="https://github.com/laoyin/freeswitch_chatGPT/blob/main/src/open_ai/7_1679898071.gif"  height="500" width="220">
